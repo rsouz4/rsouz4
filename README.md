@@ -39,5 +39,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ricardo-silva-5254a0186/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ricardoass017@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/5511950875456"><img src="https://img.shields.io/badge/WhatsApp-(11)%2095087--5456-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </p>
