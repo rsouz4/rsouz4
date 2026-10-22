@@ -14,7 +14,6 @@
 
 - 💻 Desenvolvedor de software com foco em **C# e .NET**
 - 🌐 Construo aplicações web com **Blazor**
-- 📍 Brasil
 
 ### 🛠️ Stack
 
